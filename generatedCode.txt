@@ -1,0 +1,7 @@
+if((id == 1) && (currentState == 'Motor') && (status == 'ON'))
+if((id == 3) && (currentState == 'Traction') && (status == 'ON'))
+if((id == 2) && (currentState == 'Door') && (status == 'OFF'))
+if((id == 1) && (currentState == 'Motor') && (status == 'ON'))
+if((id == 2) && (currentState == 'Door') && (status == 'OFF'))
+if((id == 2) && (currentState == 'Door') && (status == 'OFF'))
+if((id == 1) && (currentState == 'Motor') && (status == 'ON'))

@@ -1,4 +1,3 @@
-C:Name:ON&and&C:Name:OFF$C:Name:OFF
-C:Name:OFF$C:Name:ON
-C:Name:ON$C:Name:OFF
-C:Name:OFF$C:Name:OFF
+1:Motor:ON&and&3:Traction:ON$2:Door:OFF
+1:Motor:ON$2:Door:OFF
+2:Door:OFF$1:Motor:ON
