@@ -36,8 +36,8 @@ int main() {
 
 	readFromFile();
 
-	cout << endl << "Press 'return' button to finish the program . . .";
-	getchar();
+	/*cout << endl << "Press 'return' button to finish the program . . .";
+	getchar();*/
 	return 0;
 }
 
